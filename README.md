@@ -1,172 +1,18 @@
-<h1 align="center"> DevOps </h1>
+# 💫 About Me:
+🔭 I’m currently working on Cloud Profession<br>👯 I’m looking to collaborate With Devops and DevSecOps<br>🤝 I’m looking for help learning devops tools<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<p align="center"> Contains all my learning related to DevOps tools and tech.</p>
 
-## Docker
+# 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cloudevguru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cloudevguru&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudevguru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" src="https://user-images.githubusercontent.com/51878265/200594916-47ba8a4c-fb94-4953-b179-dfb542df9499.png" height="100" alt="docker"> 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- [Notes](docs/docker/introduction.md)
-- [Learning Resources](docs/docker/learning-resources.md)
-- [Commands](docs/docker/commands.md)
-- [Compose/Stack Files](https://github.com/cloudevguru/DevOps/tree/main/docs/docker/docker-compose)
-- [Dockerfile](https://github.com/cloudevguru/DevOps/tree/main/docs/docker/dockerfiles)
+---
+[![](https://visitcount.itsvg.in/api?id=cloudevguru&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<be>
-  
-## Kubernetes
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/200594367-f416d081-af8f-4f48-8008-998d005b317f.png" height="100" alt="Kubernetes"> 
-
-- [Notes](docs/kubernetes/introduction.md)
-- [Learning Resources](docs/kubernetes/learning-resources.md)
-- [Commands](docs/kubernetes/commands.md)
-- [Sample Apps](https://github.com/cloudevguru/DevOps/tree/main/docs/kubernetes/apps)
-
-<br>
-
-## GitHub Actions
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/211621722-c2ddc389-6e4e-4769-9dac-f18f8e71fed3.png" height="100" alt="GitHub Action"> 
-
-- [Notes](docs/github-actions/introduction.md)
-- [Learning Resources](docs/github-actions/learning-resources.md)
-- [Workflows](https://github.com/cloudevguru/DevOps/tree/main/docs/github-actions/workflows)
-
-<br>
-
-## Linux
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/209197882-51406a8f-04ff-4c53-a362-ac32ae8566ad.png" height="100" alt="linux"> 
-
-- [Notes](docs/linux/introduction.md)
-- [Learning Resources](docs/linux/learning-resources.md)
-- [Commands](docs/linux/commands.md)
-
-<br>
-
-## Git 
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/202784470-2c813581-7160-4aaf-b96c-35187795d05b.png" height="100" alt="git"> 
-
-- [Notes](docs/git/introduction.md)
-- [Learning Resources](docs/git/learning-resources.md)
-- [Commands](docs/git/commands.md)
-
-<br>
-
-## Networking
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/204347251-efd0e271-5d3c-4008-bdab-6f6ce5b2195f.png" height="100" alt="network"> 
-
-- [Notes](docs/networking/introduction.md)
-- [Learning Resources](docs/networking/learning-resources.md)
-- [Commands](docs/networking/commands.md)
-
-<br>
-
-## YAML
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/202765143-55758916-b631-4c18-aaad-718b42507d67.png" height="100" alt="YAML"> 
-
-- [Notes](docs/yaml/introduction.md)
-- [Learning Resources](docs/yaml/learning-resources.md)
-
-<br>
-
-## Go
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/213385507-52f03107-388c-4992-9b5e-c89de6906e37.png" height="100" alt="network"> 
-
-- [Notes](docs/go/introduction.md)
-- [Learning Resources](docs/go/learning-resources.md)
-- [Concepts](https://github.com/cloudevguru/DevOps/tree/main/docs/golang/concepts)
-- [Practice App](https://github.com/cloudevguru/DevOps/tree/main/docs/golang/apps)
-
-<br>
-
-## Helm
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/202859249-b90ac510-d8e8-408d-9c07-0d2bd8e1b092.png" height="100" alt="Helm"> 
-
-- [Notes](docs/helm/introduction.md)
-- [Learning Resources](docs/helm/learning-resources.md)
-
-<br>
-
-## Prometheus
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/202859485-eba6809e-1cb8-4bbc-ab22-efa3c91d6463.png" height="100" alt="Prometheus"> 
-
-- [Notes](docs/prometheus/introduction.md)
-- [Learning Resources](docs/prometheus/learning-resources.md)
-
-<br>
-
-## GitOps
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/206730962-b20f94c1-17af-48b2-b62c-b6c02dbeeb77.png" height="100" alt="Gitops"> 
-
-- [Notes](docs/gitops/introduction.md)
-- [Learning Resources](docs/gitops/learning-resources.md)
-
-<br>
-
-## ArgoCD
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/205495495-b3f0b395-3ce3-42d8-9274-220ff10334f6.png" height="100" alt="Argo"> 
-
-- [Notes + Learning Resources](docs/argocd/introduction.md)
-- [Manifest Files](https://github.com/cloudevguru/DevOps/tree/main/docs/argocd/manifests)
-
-<br>
-
-## Jenkins 
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/209197795-570330e6-fbee-4bf3-a42e-b8609e3afc46.png" height="100" alt="Jenkins"> 
-
-- [Notes + Learning Resources](docs/jenkins/introduction.md)
-- [Jenkinsfile](https://github.com/cloudevguru/DevOps/tree/main/docs/jenkins/jenkinsfiles)
-<br>
-
-## Bash Scripting 
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/200594989-b1406680-ed41-478a-84d5-7c35b287e112.png" height="100" alt="Bash"> 
-
-- [Notes + Learning Resources](docs/bash-scripting/introduction.md)
-- [Script](https://github.com/cloudevguru/DevOps/tree/main/docs/bash-scripting/scripts)
-
-<br>
-
-## Portainer
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/204345912-dee5ddf4-4a91-4b4f-aeb3-5a429de5a7f7.png" height="100" alt="portainer"> 
-
-- [Notes + Learning Resources](docs/kubernetes/tools/portainer.md)
-
-<br>
-
-## Lens IDE
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/208243882-9c4f03fe-7aa3-4f42-84c4-ab90047e056b.png" height="100" alt="Lens"> 
-
-- [Notes + Learning Resources](docs/kubernetes/tools/lens.md)
-
-<br>
-
-## Kubescape 
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/208244012-919ce817-32c1-40fe-b31f-44dba72655da.png" height="100" alt="Kubescape"> 
-
-- [Notes + Learning Resources](docs/kubernetes/tools/kubescape.md)
-
-<br>
-
-## ValidKube 
-
-<img align="right" src="https://user-images.githubusercontent.com/51878265/208244291-3e43c1aa-cee1-4943-8775-21189cab3dcd.png" height="50" alt="ValidKube"> 
-
-- [Notes + Learning Resources](docs/kubernetes/tools/validkube.md)
-
-<br>
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
